@@ -1,0 +1,74 @@
+body {
+    background-color: white:
+}
+
+#menu {
+    float: right;
+   }
+
+}
+
+
+
+#menu table {
+    
+    border: none;
+    border-spacing: 10px;
+    padding: 5px;
+    background-color: darkolivegreen;
+    border-radius: 30px;
+    text-decoration: none;
+    
+}
+
+#menu table td a {
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: darkolivegreen;
+}
+
+
+hr {
+    clear: both
+}
+
+h1 {
+color: black;
+text-shadow: .5px 1px 0px;
+    text-shadow: dimgrey;
+    
+}
+
+
+.headshot {
+    width: auto;
+    height:400px;
+    background-color: #C8BFA8;
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
+}
+
+@media screen and (max-width: 780px) {
+  .headshot {
+    background-color: #ffffff;
+  }
+}
+
+p {
+    font-size: 150%;
+    
+    
+}
+
+.primarySchool {
+    color: black
+        
+}
+
+.highschool {
+    
+}
+
+.tertiaryEducation {
+    
+}
